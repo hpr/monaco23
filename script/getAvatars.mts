@@ -214,7 +214,7 @@ for (const entrant of entrants) {
         const describedAtUrl = athObj.claims?.[P_DESCRIBED_AT_URL]?.[0];
         console.log({
           usatfId, olympediaId, moroccanId, pzlaId, stravaId, europeanAthleticsId, describedAtUrl
-        })
+        });
         if (usatfId) {
           const url = `https://www.usatf.org/athlete-bios/${usatfId}`;
           const { document } = new JSDOM(await (await fetch(url)).text()).window;
