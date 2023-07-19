@@ -1,73 +1,133 @@
-Write a race prediction and preview for the Men's 400m Hurdles at the 2023 Monaco Diamond League track meet, which will happen on July 21, 2023. Start your response with a listing of the predicted finish and times of the athletes. Here are the competitors:
+Write a race prediction and preview for the Men's 100m at the 2023 Monaco Diamond League track meet, which will happen on July 21, 2023. Start your response with a listing of the predicted finish and times of the athletes. Here are the competitors:
 
-1. Karsten Warholm (NOR), 27 years old
-Personal Best: 45.94, Season's Best: 46.52
-Here's all of the 2023 performances by Karsten Warholm:
-02 FEB: 1st place, time of 45.31 in 400 Metres (indoor) @ Ulsteinhallen, Ulsteinvik (NOR)
-15 FEB: 1st place, time of 45.51 in 400 Metres (indoor) @ Arena Stade Couvert, Liévin (FRA)
-03 MAR: 1st place, time of 45.75 in 400 Metres (indoor) @ Ataköy Arena, Istanbul (TUR)
-03 MAR: 1st place, time of 45.43 in 400 Metres (indoor) @ Ataköy Arena, Istanbul (TUR)
-04 MAR: 1st place, time of 45.35 in 400 Metres (indoor) @ Ataköy Arena, Istanbul (TUR)
-15 JUN: 1st place, time of 46.52 in 400 Metres Hurdles @ Bislett Stadion, Oslo (NOR)
-02 JUL: 1st place, time of 47.57 in 400 Metres Hurdles @ Olympiastadion, Stockholm (SWE)
-06 JUL: 1st place, time of 46.76 in 400 Metres Hurdles @ Friidrettsstadion, Jessheim (NOR)
+1. Ferdinand Omanyala (KEN), 27 years old
+Personal Best: 9.77, Season's Best: 9.84
+Here's all of the 2023 performances by Ferdinand Omanyala:
+03 FEB: 1st place, time of 6.66 in 60 Metres (indoor) @ Stadium Miramas Métropole, Miramas (FRA)
+03 FEB: 2nd place, time of 6.60 in 60 Metres (indoor) @ Stadium Miramas Métropole, Miramas (FRA)
+08 FEB: 2nd place, time of 6.63 in 60 Metres (indoor) @ Halle Michel d'Ornano, Mondeville (FRA)
+08 FEB: 1st place, time of 6.55 in 60 Metres (indoor) @ Halle Michel d'Ornano, Mondeville (FRA)
+11 FEB: 1st place, time of 6.61 in 60 Metres (indoor) @ AccorHotels Arena de Bercy, Paris (FRA)
+11 FEB: 1st place, time of 6.56 in 60 Metres (indoor) @ AccorHotels Arena de Bercy, Paris (FRA)
+15 FEB: 1st place, time of 6.58 in 60 Metres (indoor) @ Arena Stade Couvert, Liévin (FRA)
+15 FEB: 1st place, time of 6.54 in 60 Metres (indoor) @ Arena Stade Couvert, Liévin (FRA)
+24 FEB: 1st place, time of 9.86 (NWI) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+25 FEB: 1st place, time of 9.95 (NWI) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+25 FEB: 1st place, time of 9.81 (NWI) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+25 FEB: 1st place, time of 21.00 (NWI) in 200 Metres @ Nyayo National Stadium, Nairobi (KEN)
+12 APR: 1st place, time of 10.12 (-1.4) in 100 Metres @ Bestmed Tuks Stadium, Pretoria (RSA)
+19 APR: 1st place, time of 10.05 (+0.1) in 100 Metres @ Germiston Stadium, Johannesburg (RSA)
+29 APR: 1st place, time of 9.78* (+2.3) in 100 Metres @ National Stadium, Gaborone (BOT)
+29 APR: 1st place, time of 38.26 in 4x100 Metres Relay @ National Stadium, Gaborone (BOT)
+13 MAY: 1st place, time of 9.84 (-0.5) in 100 Metres @ Moi International Sports Centre, Kasarani, Nairobi (KEN)
+28 MAY: 3rd place, time of 10.05 (+0.1) in 100 Metres @ Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)
+02 JUN: 2nd place, time of 10.05 (0.0) in 100 Metres @ Stadio Luigi Ridolfi, Firenze (ITA)
+04 JUN: 1st place, time of 10.13 (+1.5) in 100 Metres @ Campo Scuola Moreno Martini, Lucca (ITA)
+09 JUN: 2nd place, time of 9.98 (-0.9) in 100 Metres @ Stade Charléty, Paris (FRA)
+22 JUN: 1st place, time of 10.08 (+0.2) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+23 JUN: 1st place, time of 10.06 (-0.9) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+24 JUN: 1st place, time of 9.96 (-2.4) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+24 JUN: 1st place, time of 38.82 in 4x100 Metres Relay @ Nyayo National Stadium, Nairobi (KEN)
+07 JUL: 1st place, time of 10.08 (-1.4) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+08 JUL: 1st place, time of 9.85 (+0.8) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
+12 JUL: 2nd place, time of 39.30 in 4x100 Metres Relay @ Stade Naimette-Xhovémont, Liège (BEL)
 
-2. Rai Benjamin (USA), 25 years old
-Personal Best: 46.17, Season's Best: 46.62
-Here's all of the 2023 performances by Rai Benjamin:
-01 APR: 1st place, time of 44.94 in 400 Metres @ Percy Beard Track, Gainesville, FL (USA)
-08 APR: 1st place, time of 44.21 in 400 Metres @ USC Cromwell Field at Loker Track Stadium, Los Angeles, CA (USA)
-15 APR: 1st place, time of 47.74 in 400 Metres Hurdles @ Hilmer Lodge Stadium, Walnut, CA (USA)
-05 MAY: 1st place, time of 47.78 in 400 Metres Hurdles @ Suhaim bin Hamad Stadium, Doha (QAT)
-07 JUL: 1st place, time of 49.05 in 400 Metres Hurdles @ Hayward Field, Eugene, OR (USA)
-08 JUL: 1st place, time of 48.26 in 400 Metres Hurdles @ Hayward Field, Eugene, OR (USA)
-09 JUL: 1st place, time of 46.62 in 400 Metres Hurdles @ Hayward Field, Eugene, OR (USA)
+2. Akani Simbine (RSA), 29 years old
+Personal Best: 9.84, Season's Best: 9.92
+Here's all of the 2023 performances by Akani Simbine:
+18 FEB: 1st place, time of 6.54 (0.0) in 60 Metres @ Pilditch Stadium, Pretoria (RSA)
+18 FEB: 1st place, time of 6.53 (0.0) in 60 Metres @ Pilditch Stadium, Pretoria (RSA)
+25 FEB: 1st place, time of 10.18 (-3.0) in 100 Metres @ Germiston Stadium, Johannesburg (RSA)
+30 MAR: 1st place, time of 9.98 (+1.0) in 100 Metres @ McArthur Stadium, Potchefstroom (RSA)
+30 MAR: 1st place, time of 9.92 (+0.6) in 100 Metres @ McArthur Stadium, Potchefstroom (RSA)
+30 MAR: 1st place, time of 10.14 (-0.2) in 100 Metres @ McArthur Stadium, Potchefstroom (RSA)
+06 MAY: 2nd place, time of 10.09 (-0.7) in 100 Metres @ Centennial Olympic Park, Atlanta, GA (USA)
+06 MAY: 2nd place, time of 10.01 (-0.2) in 100 Metres @ Centennial Olympic Park, Atlanta, GA (USA)
+28 MAY: 2nd place, time of 9.99 (+0.1) in 100 Metres @ Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)
+02 JUN: 4th place, time of 10.09 (0.0) in 100 Metres @ Stadio Luigi Ridolfi, Firenze (ITA)
+13 JUN: 1st place, time of 10.07 (+0.3) in 100 Metres @ Mestský Stadion Sletište, Kladno (CZE)
+27 JUN: 1st place, time of 9.98 (+0.6) in 100 Metres @ Mestský Stadion, Ostrava (CZE)
+02 JUL: 1st place, time of 10.03 (+1.0) in 100 Metres @ Olympiastadion, Stockholm (SWE)
+16 JUL: 1st place, time of 9.97 (0.0) in 100 Metres @ Stadion Śląski, Chorzów (POL)
 
-3. Alison dos Santos (BRA), 23 years old
-Personal Best: 46.29, Season's Best: N/A
-Here's all of the 2023 performances by Alison dos Santos:
-16 JUL: 3rd place, time of 44.73 in 400 Metres @ Stadion Śląski, Chorzów (POL)
+3. Ackeem Blake (JAM), 21 years old
+Personal Best: 9.89, Season's Best: 9.89
+Here's all of the 2023 performances by Ackeem Blake:
+11 FEB: 1st place, time of 6.63 (-0.4) in 60 Metres @ National Stadium, Kingston (JAM)
+25 FEB: 1st place, time of 6.56 (+0.4) in 60 Metres @ National Stadium, Kingston (JAM)
+25 FEB: 1st place, time of 6.42 (+0.9) in 60 Metres @ National Stadium, Kingston (JAM)
+18 MAR: 2nd place, time of 20.84 (-1.4) in 200 Metres @ National Stadium, Kingston (JAM)
+08 APR: 1st place, time of 10.05* (+2.8) in 100 Metres @ Ansin Sports Complex, Miramar, FL (USA)
+08 APR: 2nd place, time of 9.93* (+2.2) in 100 Metres @ Ansin Sports Complex, Miramar, FL (USA)
+22 APR: 1st place, time of 9.99 (+1.2) in 100 Metres @ National Stadium, Kingston (JAM)
+22 APR: time of DQ (NWI) in 100 Metres @ National Stadium, Kingston (JAM)
+21 MAY: 3rd place, time of 9.87* (+4.4) in 100 Metres @ National Sports Centre, Devonshire (BER)
+27 MAY: 1st place, time of 9.89 (+1.0) in 100 Metres @ Drake Stadium, Los Angeles, CA (USA)
+17 JUN: 2nd place, time of 10.07 (-0.9) in 100 Metres @ National Stadium, Kingston (JAM)
+24 JUN: 2nd place, time of 9.93 (+1.3) in 100 Metres @ Icahn Stadium, New York, NY (USA)
+06 JUL: 2nd place, time of 10.00 (+0.6) in 100 Metres @ National Stadium, Kingston (JAM)
+07 JUL: 1st place, time of 10.21 (-2.2) in 100 Metres @ National Stadium, Kingston (JAM)
+07 JUL: 4th place, time of 10.01 (+1.1) in 100 Metres @ National Stadium, Kingston (JAM)
+16 JUL: 7th place, time of 10.15 (0.0) in 100 Metres @ Stadion Śląski, Chorzów (POL)
+18 JUL: 2nd place, time of 10.09 (-0.1) in 100 Metres @ Bregyó Athletic Center, Székesfehérvár (HUN)
 
-4. Wilfried Happio (FRA), 24 years old
-Personal Best: 47.41, Season's Best: 48.13
-Here's all of the 2023 performances by Wilfried Happio:
-05 MAY: 3rd place, time of 49.12 in 400 Metres Hurdles @ Suhaim bin Hamad Stadium, Doha (QAT)
-21 MAY: 2nd place, time of 46.59 in 400 Metres @ Stade Bachelard, Grenoble (FRA)
-21 MAY: 1st place, time of 3:08.89 in 4x400 Metres Relay @ Stade Bachelard, Grenoble (FRA)
-28 MAY: 1st place, time of 49.22 in 400 Metres Hurdles @ Stade Omnisports Schlossberg, Forbach (FRA)
-04 JUN: 4th place, time of 49.40 in 400 Metres Hurdles @ FBK Stadium, Hengelo (NED)
-09 JUN: 2nd place, time of 48.26 in 400 Metres Hurdles @ Stade Charléty, Paris (FRA)
-15 JUN: 3rd place, time of 48.13 in 400 Metres Hurdles @ Bislett Stadion, Oslo (NOR)
-02 JUL: 5th place, time of 49.67 in 400 Metres Hurdles @ Olympiastadion, Stockholm (SWE)
-07 JUL: 1st place, time of 48.87 in 400 Metres Hurdles @ Stade Sottevillais 76, Sotteville-lès-Rouen (FRA)
+4. Courtney Lindsey (USA), 24 years old
+Personal Best: 9.89, Season's Best: 9.89
+Here's all of the 2023 performances by Courtney Lindsey:
+03 FEB: 2nd place, time of 20.58 in 200 Metres (indoor) @ Convention Center, Albuquerque, NM (USA)
+04 FEB: 3rd place, time of 6.71 in 60 Metres (indoor) @ Convention Center, Albuquerque, NM (USA)
+10 FEB: 1st place, time of 6.63 in 60 Metres (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+10 FEB: 2nd place, time of 6.61 in 60 Metres (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+11 FEB: 3rd place, time of 3:06.72 in 4x400 Metres Relay (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+24 FEB: 1st place, time of 6.58 in 60 Metres (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+24 FEB: 1st place, time of 20.32 in 200 Metres (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+25 FEB: 4th place, time of 6.59 in 60 Metres (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+25 FEB: 1st place, time of 20.13 in 200 Metres (indoor) @ Sports Performance Center, Lubbock, TX (USA)
+10 MAR: 4th place, time of 20.60 in 200 Metres (indoor) @ Convention Center, Albuquerque, NM (USA)
+31 MAR: 2nd place, time of 39.61 in 4x100 Metres Relay @ Mike A. Myers Stadium, Austin, TX (USA)
+01 APR: 1st place, time of 20.11 (+0.6) in 200 Metres @ Mike A. Myers Stadium, Austin, TX (USA)
+01 APR: 7th place, time of 39.34 in 4x100 Metres Relay @ Mike A. Myers Stadium, Austin, TX (USA)
+15 APR: 2nd place, time of 10.04 (+1.0) in 100 Metres @ Percy Beard Track, Gainesville, FL (USA)
+15 APR: 1st place, time of 38.60 in 4x100 Metres Relay @ Percy Beard Track, Gainesville, FL (USA)
+15 APR: 3rd place, time of 3:04.10 in 4x400 Metres Relay @ Percy Beard Track, Gainesville, FL (USA)
+29 APR: 2nd place, time of 19.94 (+1.3) in 200 Metres @ Terry & Linda Fuller T&F Complex, Lubbock, TX (USA)
+13 MAY: 1st place, time of 10.17 (+0.6) in 100 Metres @ John Jacobs Track Complex, Norman, OK (USA)
+13 MAY: 1st place, time of 20.33 (+0.8) in 200 Metres @ John Jacobs Track Complex, Norman, OK (USA)
+14 MAY: 1st place, time of 10.08* (+2.1) in 100 Metres @ John Jacobs Track Complex, Norman, OK (USA)
+14 MAY: 1st place, time of 20.12 (+1.1) in 200 Metres @ John Jacobs Track Complex, Norman, OK (USA)
+14 MAY: 1st place, time of 38.24 in 4x100 Metres Relay @ John Jacobs Track Complex, Norman, OK (USA)
+24 MAY: 1st place, time of 10.31 (-0.8) in 100 Metres @ Hornet Stadium - Sac St., Sacramento, CA (USA)
+24 MAY: 1st place, time of 20.42 (+1.3) in 200 Metres @ Hornet Stadium - Sac St., Sacramento, CA (USA)
+26 MAY: 1st place, time of 10.02 (+1.8) in 100 Metres @ Hornet Stadium - Sac St., Sacramento, CA (USA)
+26 MAY: 1st place, time of 19.92* (+2.3) in 200 Metres @ Hornet Stadium - Sac St., Sacramento, CA (USA)
+26 MAY: 2nd place, time of 39.16 in 4x100 Metres Relay @ Hornet Stadium - Sac St., Sacramento, CA (USA)
+07 JUN: 2nd place, time of 10.03 (+1.3) in 100 Metres @ Mike A. Myers Stadium, Austin, TX (USA)
+07 JUN: 1st place, time of 19.88 (+0.6) in 200 Metres @ Mike A. Myers Stadium, Austin, TX (USA)
+07 JUN: 1st place, time of 38.20 in 4x100 Metres Relay @ Mike A. Myers Stadium, Austin, TX (USA)
+09 JUN: 1st place, time of 9.89 (+1.8) in 100 Metres @ Mike A. Myers Stadium, Austin, TX (USA)
+09 JUN: 2nd place, time of 19.86 (+0.9) in 200 Metres @ Mike A. Myers Stadium, Austin, TX (USA)
+06 JUL: 5th place, time of 10.17 (+0.2) in 100 Metres @ Hayward Field, Eugene, OR (USA)
+07 JUL: 6th place, time of 10.14 (+1.2) in 100 Metres @ Hayward Field, Eugene, OR (USA)
+08 JUL: 2nd place, time of 20.18 (+0.8) in 200 Metres @ Hayward Field, Eugene, OR (USA)
+09 JUL: 2nd place, time of 19.94 (-0.1) in 200 Metres @ Hayward Field, Eugene, OR (USA)
+09 JUL: 3rd place, time of 19.85 (-0.1) in 200 Metres @ Hayward Field, Eugene, OR (USA)
 
-5. CJ Allen (USA), 28 years old
-Personal Best: 47.58, Season's Best: 47.58
-Here's all of the 2023 performances by CJ Allen:
-21 JAN: 1st place, time of 3:06.79 in 4x400 Metres Relay (indoor) @ Iowa-Recreation Building, Iowa City, IA (USA)
-10 FEB: 1st place, time of 46.44 in 400 Metres (indoor) @ Clemson Indoor Track & Field Complex, Clemson, SC (USA)
-17 FEB: 2nd place, time of 46.07 in 400 Metres (indoor) @ Convention Center, Albuquerque, NM (USA)
-18 FEB: 3rd place, time of 46.11 in 400 Metres (indoor) @ Convention Center, Albuquerque, NM (USA)
-22 APR: 1st place, time of 48.71 in 400 Metres Hurdles @ Geroge C. Griffin Track, Atlanta, GA (USA)
-29 APR: 1st place, time of 48.78 in 400 Metres Hurdles @ Drake Stadium, Des Moines, IA (USA)
-05 MAY: 2nd place, time of 47.93 in 400 Metres Hurdles @ Suhaim bin Hamad Stadium, Doha (QAT)
-27 MAY: 1st place, time of 47.91 in 400 Metres Hurdles @ Drake Stadium, Los Angeles, CA (USA)
-04 JUN: 1st place, time of 48.24 in 400 Metres Hurdles @ FBK Stadium, Hengelo (NED)
-09 JUN: 1st place, time of 47.92 in 400 Metres Hurdles @ Stade Charléty, Paris (FRA)
-15 JUN: 2nd place, time of 47.58 in 400 Metres Hurdles @ Bislett Stadion, Oslo (NOR)
-07 JUL: 1st place, time of 49.50 in 400 Metres Hurdles @ Hayward Field, Eugene, OR (USA)
-08 JUL: 1st place, time of 48.51 in 400 Metres Hurdles @ Hayward Field, Eugene, OR (USA)
-09 JUL: 2nd place, time of 48.18 in 400 Metres Hurdles @ Hayward Field, Eugene, OR (USA)
+5. Letsile Tebogo (BOT), 20 years old
+Personal Best: 9.91, Season's Best: 10.05
+Here's all of the 2023 performances by Letsile Tebogo:
+04 FEB: 1st place, time of 46.21 in 400 Metres @ Francistown Stadion, Francistown (BOT)
+18 FEB: 1st place, time of 31.52 in 300 Metres @ Pilditch Stadium, Pretoria (RSA)
+08 APR: 2nd place, time of 20.00 (+1.9) in 200 Metres @ Ansin Sports Complex, Miramar, FL (USA)
+29 APR: 2nd place, time of 9.91* (+2.3) in 100 Metres @ National Stadium, Gaborone (BOT)
+29 APR: 1st place, time of 19.87 (-0.3) in 200 Metres @ National Stadium, Gaborone (BOT)
+28 MAY: 4th place, time of 10.09 (+0.1) in 100 Metres @ Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)
+09 JUN: 3rd place, time of 10.05 (-0.9) in 100 Metres @ Stade Charléty, Paris (FRA)
+30 JUN: 1st place, time of 20.01 (-1.4) in 200 Metres @ Stade Olympique de la Pontaise, Lausanne (SUI)
+14 JUL: 1st place, time of 44.75 in 400 Metres @ Stadio G. Teghil, Lignano Sabbiadoro (ITA)
 
-6. Alessandro Sibilio (ITA), 24 years old
-Personal Best: 47.93, Season's Best: 48.14
-Here's all of the 2023 performances by Alessandro Sibilio:
-14 MAY: 2nd place, time of 3:13.49 in 4x400 Metres Relay @ Stadio Communale Emilio Colombo-Gaetano Gianetti, Saronno (ITA)
-24 MAY: 2nd place, time of 48.72 in 400 Metres Hurdles @ Centro Sportivo Fontanassa, Savona (ITA)
-10 JUN: 1st place, time of 48.23 in 400 Metres Hurdles @ Centre sportif Bout-du-Monde, Genève (SUI)
-11 JUN: 1st place, time of 3:01.62 in 4x400 Metres Relay @ Stade Municipal, Annecy (FRA)
-24 JUN: 1st place, time of 48.14 in 400 Metres Hurdles @ Stadion Śląski, Chorzów (POL)
-25 JUN: 3rd place, time of 3:13.56 in 4x400 Metres Relay Mixed @ Stadion Śląski, Chorzów (POL)
-02 JUL: 4th place, time of 49.11 in 400 Metres Hurdles @ Olympiastadion, Stockholm (SWE)
+6. Kishane Thompson (JAM), 22 years old
+Personal Best: 9.91, Season's Best: 9.91
+Here's all of the 2023 performances by Kishane Thompson:
+06 JUL: 1st place, time of 9.91 (+0.6) in 100 Metres @ National Stadium, Kingston (JAM)
 
 Please predict the final places and times of the athletes. List the athletes in order of finish with their times. Then, explain why you think they will finish in that order. In your reasoning, compare athletes with each other and don't be afraid to make harsh judgements based on the data. Make reference to specific standout performances for the athletes in your reasoning, whether good or bad.
