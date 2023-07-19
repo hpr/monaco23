@@ -212,6 +212,9 @@ for (const entrant of entrants) {
         const stravaId = athObj.claims?.[P_STRAVA_ID]?.[0];
         const europeanAthleticsId = athObj.claims?.[P_EUROPEAN_ATHLETICS_ID]?.[0];
         const describedAtUrl = athObj.claims?.[P_DESCRIBED_AT_URL]?.[0];
+        console.log({
+          usatfId, olympediaId, moroccanId, pzlaId, stravaId, europeanAthleticsId, describedAtUrl
+        })
         if (usatfId) {
           const url = `https://www.usatf.org/athlete-bios/${usatfId}`;
           const { document } = new JSDOM(await (await fetch(url)).text()).window;
@@ -250,7 +253,7 @@ for (const entrant of entrants) {
       }
     }
   }
-  if (avatarResp.status === 403 && !avatarBuffer) continue;
+  if ([403, 404].includes(avatarResp.status) && !avatarBuffer) continue;
   avatarBuffer ??= await avatarResp.arrayBuffer();
   const size: gm.Dimensions = await new Promise((res) => gm(Buffer.from(avatarBuffer!), 'image.jpg').size((_, size) => res(size)));
   if (size.width > 1024)
