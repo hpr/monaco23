@@ -78,7 +78,121 @@
           "hasAvy": true
         }
       ],
-      "isClosed": true
+      "isClosed": true,
+      "results": [
+        {
+          "mark": "46.51",
+          "place": 1,
+          "notes": "",
+          "entrant": {
+            "firstName": "Karsten",
+            "lastName": "Warholm",
+            "id": "14479487",
+            "pb": "45.94",
+            "sb": "46.52",
+            "nat": "NOR",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "47.66",
+          "place": 2,
+          "notes": "",
+          "entrant": {
+            "firstName": "Alison",
+            "lastName": "dos Santos",
+            "id": "14755064",
+            "pb": "46.29",
+            "sb": null,
+            "nat": "BRA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "47.84",
+          "place": 3,
+          "notes": "",
+          "entrant": {
+            "firstName": "CJ",
+            "lastName": "Allen",
+            "id": "14627624",
+            "pb": "47.58",
+            "sb": "47.58",
+            "nat": "USA",
+            "hasAvy": true,
+            "team": "WSU Cougars"
+          }
+        },
+        {
+          "mark": "47.85",
+          "place": 4,
+          "notes": "",
+          "entrant": {
+            "firstName": "Ludvy",
+            "lastName": "Vaillant",
+            "id": "14480831",
+            "pb": "48.26",
+            "sb": "48.50",
+            "nat": "FRA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "48.25",
+          "place": 5,
+          "notes": "",
+          "entrant": {
+            "firstName": "Wilfried",
+            "lastName": "Happio",
+            "id": "14650750",
+            "pb": "47.41",
+            "sb": "48.13",
+            "nat": "FRA",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "48.57",
+          "place": 6,
+          "notes": "",
+          "entrant": {
+            "firstName": "Nick",
+            "lastName": "Smidt",
+            "id": "14564609",
+            "pb": "48.36",
+            "sb": "48.36",
+            "nat": "NED",
+            "hasAvy": true
+          }
+        },
+        {
+          "mark": "48.71",
+          "place": 7,
+          "notes": "",
+          "entrant": {
+            "firstName": "Khallifah",
+            "lastName": "Rosser",
+            "id": "14520653",
+            "pb": "47.59",
+            "sb": "48.60",
+            "nat": "USA",
+            "hasAvy": true
+          }
+        },
+        {
+          "place": null,
+          "notes": "DNF",
+          "entrant": {
+            "firstName": "Alessandro",
+            "lastName": "Sibilio",
+            "id": "14699358",
+            "pb": "47.93",
+            "sb": "48.14",
+            "nat": "ITA",
+            "hasAvy": true
+          }
+        }
+      ]
     },
     "400m Women": {
       "date": "2023-07-21T20:15",
