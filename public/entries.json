@@ -22,48 +22,72 @@
           "firstName": "der WALT Zenéy",
           "lastName": "Van",
           "nat": "RSA",
+          "pb": "50.81",
+          "sb": "50.81",
+          "hasAvy": true,
           "id": "14639191"
         },
         {
           "firstName": "Anna",
           "lastName": "Kielbasinska",
           "nat": "POL",
+          "pb": "50.28",
+          "sb": "51.29",
+          "hasAvy": true,
           "id": "14293852"
         },
         {
           "firstName": "Mary",
           "lastName": "Moraa",
           "nat": "KEN",
+          "pb": "50.38",
+          "sb": "50.38",
+          "hasAvy": true,
           "id": "14798209"
         },
         {
           "firstName": "Lieke",
           "lastName": "Klaver",
           "nat": "NED",
+          "pb": "49.81",
+          "sb": "49.81",
+          "hasAvy": true,
           "id": "14560483"
         },
         {
           "firstName": "Rhasidat",
           "lastName": "Adeleke",
           "nat": "IRL",
+          "pb": "49.20",
+          "sb": "49.20",
+          "hasAvy": true,
           "id": "14745252"
         },
         {
           "firstName": "Natalia",
           "lastName": "Kaczmarek",
           "nat": "POL",
+          "pb": "49.48",
+          "sb": "49.48",
+          "hasAvy": true,
           "id": "14642563"
         },
         {
           "firstName": "Sada",
           "lastName": "Williams",
           "nat": "BAR",
+          "pb": "49.75",
+          "sb": "50.34",
+          "hasAvy": true,
           "id": "14592846"
         },
         {
           "firstName": "Shamier",
           "lastName": "Little",
           "nat": "USA",
+          "pb": "49.91",
+          "sb": "50.61",
+          "hasAvy": true,
           "id": "14443767"
         }
       ]
