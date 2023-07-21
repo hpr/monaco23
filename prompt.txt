@@ -1,6 +1,23 @@
 Write a race prediction and preview for the Men's 100m at the 2023 Monaco Diamond League track meet, which will happen on July 21, 2023. Start your response with a listing of the predicted finish and times of the athletes. Here are the competitors:
 
-1. Ferdinand Omanyala (KEN), 27 years old
+1. Yohan Blake (JAM), 33 years old
+Personal Best: 9.69, Season's Best: 10.01
+Here's all of the 2023 performances by Yohan Blake:
+11 FEB: 2nd place, time of 6.64 (-0.4) in 60 Metres @ National Stadium, Kingston (JAM)
+25 FEB: 2nd place, time of 6.54 (+1.6) in 60 Metres @ National Stadium, Kingston (JAM)
+25 FEB: 4th place, time of 6.45 (+0.9) in 60 Metres @ National Stadium, Kingston (JAM)
+25 MAR: 1st place, time of 21.66 (-2.3) in 200 Metres @ National Stadium, Kingston (JAM)
+28 MAY: 6th place, time of 10.18 (+0.1) in 100 Metres @ Complexe Sportif Prince Moulay Abdellah, Rabat (MAR)
+02 JUN: 7th place, time of 10.15 (0.0) in 100 Metres @ Stadio Luigi Ridolfi, Firenze (ITA)
+04 JUN: 2nd place, time of 10.05 (+0.4) in 100 Metres @ FBK Stadium, Hengelo (NED)
+09 JUN: 4th place, time of 10.16 (-0.9) in 100 Metres @ Stade Charléty, Paris (FRA)
+06 JUL: 6th place, time of 10.31 (+0.7) in 100 Metres @ National Stadium, Kingston (JAM)
+08 JUL: 1st place, time of 20.35 (+0.6) in 200 Metres @ National Stadium, Kingston (JAM)
+09 JUL: 4th place, time of 20.51 (-0.2) in 200 Metres @ National Stadium, Kingston (JAM)
+16 JUL: 5th place, time of 10.01 (0.0) in 100 Metres @ Stadion Śląski, Chorzów (POL)
+18 JUL: 1st place, time of 10.04 (-0.1) in 100 Metres @ Bregyó Athletic Center, Székesfehérvár (HUN)
+
+2. Ferdinand Omanyala (KEN), 27 years old
 Personal Best: 9.77, Season's Best: 9.84
 Here's all of the 2023 performances by Ferdinand Omanyala:
 03 FEB: 1st place, time of 6.66 in 60 Metres (indoor) @ Stadium Miramas Métropole, Miramas (FRA)
@@ -32,7 +49,7 @@ Here's all of the 2023 performances by Ferdinand Omanyala:
 08 JUL: 1st place, time of 9.85 (+0.8) in 100 Metres @ Nyayo National Stadium, Nairobi (KEN)
 12 JUL: 2nd place, time of 39.30 in 4x100 Metres Relay @ Stade Naimette-Xhovémont, Liège (BEL)
 
-2. Akani Simbine (RSA), 29 years old
+3. Akani Simbine (RSA), 29 years old
 Personal Best: 9.84, Season's Best: 9.92
 Here's all of the 2023 performances by Akani Simbine:
 18 FEB: 1st place, time of 6.54 (0.0) in 60 Metres @ Pilditch Stadium, Pretoria (RSA)
@@ -50,7 +67,7 @@ Here's all of the 2023 performances by Akani Simbine:
 02 JUL: 1st place, time of 10.03 (+1.0) in 100 Metres @ Olympiastadion, Stockholm (SWE)
 16 JUL: 1st place, time of 9.97 (0.0) in 100 Metres @ Stadion Śląski, Chorzów (POL)
 
-3. Ackeem Blake (JAM), 21 years old
+4. Ackeem Blake (JAM), 21 years old
 Personal Best: 9.89, Season's Best: 9.89
 Here's all of the 2023 performances by Ackeem Blake:
 11 FEB: 1st place, time of 6.63 (-0.4) in 60 Metres @ National Stadium, Kingston (JAM)
@@ -71,7 +88,7 @@ Here's all of the 2023 performances by Ackeem Blake:
 16 JUL: 7th place, time of 10.15 (0.0) in 100 Metres @ Stadion Śląski, Chorzów (POL)
 18 JUL: 2nd place, time of 10.09 (-0.1) in 100 Metres @ Bregyó Athletic Center, Székesfehérvár (HUN)
 
-4. Courtney Lindsey (USA), 24 years old
+5. Courtney Lindsey (USA), 24 years old
 Personal Best: 9.89, Season's Best: 9.89
 Here's all of the 2023 performances by Courtney Lindsey:
 03 FEB: 2nd place, time of 20.58 in 200 Metres (indoor) @ Convention Center, Albuquerque, NM (USA)
@@ -112,7 +129,7 @@ Here's all of the 2023 performances by Courtney Lindsey:
 09 JUL: 2nd place, time of 19.94 (-0.1) in 200 Metres @ Hayward Field, Eugene, OR (USA)
 09 JUL: 3rd place, time of 19.85 (-0.1) in 200 Metres @ Hayward Field, Eugene, OR (USA)
 
-5. Letsile Tebogo (BOT), 20 years old
+6. Letsile Tebogo (BOT), 20 years old
 Personal Best: 9.91, Season's Best: 10.05
 Here's all of the 2023 performances by Letsile Tebogo:
 04 FEB: 1st place, time of 46.21 in 400 Metres @ Francistown Stadion, Francistown (BOT)
@@ -125,9 +142,29 @@ Here's all of the 2023 performances by Letsile Tebogo:
 30 JUN: 1st place, time of 20.01 (-1.4) in 200 Metres @ Stade Olympique de la Pontaise, Lausanne (SUI)
 14 JUL: 1st place, time of 44.75 in 400 Metres @ Stadio G. Teghil, Lignano Sabbiadoro (ITA)
 
-6. Kishane Thompson (JAM), 22 years old
+7. Kishane Thompson (JAM), 22 years old
 Personal Best: 9.91, Season's Best: 9.91
 Here's all of the 2023 performances by Kishane Thompson:
 06 JUL: 1st place, time of 9.91 (+0.6) in 100 Metres @ National Stadium, Kingston (JAM)
+
+8. Joshua Hartmann (GER), 24 years old
+Personal Best: 10.11, Season's Best: 10.14
+Here's all of the 2023 performances by Joshua Hartmann:
+28 JAN: 1st place, time of 6.61 in 60 Metres (indoor) @ Coque Sport Center, Kirchberg, Luxembourg (LUX)
+03 FEB: 1st place, time of 6.59 in 60 Metres (indoor) @ Hartwig-Gauder-Halle, Erfurt (GER)
+10 FEB: 1st place, time of 6.62 in 60 Metres (indoor) @ Mercedes-Benz Arena, Berlin (GER)
+10 FEB: 2nd place, time of 6.53 in 60 Metres (indoor) @ Mercedes-Benz Arena, Berlin (GER)
+23 APR: 2nd place, time of 10.07* (+4.1) in 100 Metres @ National Training Center, Clermont, FL (USA)
+23 APR: 4th place, time of 10.13* (+2.6) in 100 Metres @ National Training Center, Clermont, FL (USA)
+23 APR: 2nd place, time of 20.62 (+1.6) in 200 Metres @ National Training Center, Clermont, FL (USA)
+27 MAY: 2nd place, time of 20.51 (+0.3) in 200 Metres @ Putbosstadion, Oordegem (BEL)
+09 JUN: 1st place, time of 10.14 (+1.1) in 100 Metres @ Stade Charléty, Paris (FRA)
+09 JUN: 3rd place, time of 39.00 in 4x100 Metres Relay @ Stade Charléty, Paris (FRA)
+15 JUN: 6th place, time of 20.39 (+0.6) in 200 Metres @ Bislett Stadion, Oslo (NOR)
+24 JUN: 1st place, time of 38.34 in 4x100 Metres Relay @ Stadion Śląski, Chorzów (POL)
+02 JUL: 3rd place, time of 10.23 (+1.0) in 100 Metres @ Olympiastadion, Stockholm (SWE)
+02 JUL: 1st place, time of 10.23 (-0.1) in 100 Metres @ Olympiastadion, Stockholm (SWE)
+09 JUL: 1st place, time of 21.01 (-0.4) in 200 Metres @ Auestadion, Kassel (GER)
+09 JUL: 1st place, time of 20.02 (+0.6) in 200 Metres @ Auestadion, Kassel (GER)
 
 Please predict the final places and times of the athletes. List the athletes in order of finish with their times. Then, explain why you think they will finish in that order. In your reasoning, compare athletes with each other and don't be afraid to make harsh judgements based on the data. Make reference to specific standout performances for the athletes in your reasoning, whether good or bad.
